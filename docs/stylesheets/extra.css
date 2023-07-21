@@ -1,0 +1,17 @@
+:root {
+    --md-primary-fg-color:        #0067b8;
+    --md-primary-fg-color--light: #0067b8;
+    --md-primary-fg-color--dark:  #0067b8;
+
+    --md-text-font: "Segoe UI"; 
+    --md-code-font: "Cascadia";
+  } 
+  
+  @font-face {
+    font-family: 'Segoe UI', 'Cascadia';
+    src: url('SEGOEUI.TTF') format('truetype'),
+         url('CascadiaMono.woff2') format('woff2');
+  }
+  
+
+  
