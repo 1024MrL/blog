@@ -1,6 +1,38 @@
-site_name: My Docs
+nav:
+  - 前言: index.md
+  - 实用网站:
+    - 3: 实用网站/3.md
+    - 1: 实用网站/1.md
+  - 必备技能:
+    - 2: 必备技能/2.md
+
+
+
+
+
+
+
+
+site_name: 零号 IT 指南
 theme:
   name: material
+  favicon: assets/方头像.png
+
+  icon:
+    repo: fontawesome/brands/github
+
+  features:
+  - navigation.instant
+  - navigation.tracking
+  - navigation.expand
+  - navigation.path
+  - toc.follow
+  - toc.integrate
+  - navigation.top
+
+  - search.suggest
+  - search.highlight
+  
     
   palette:
     - scheme: default
@@ -28,3 +60,14 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
+
+repo_url: https://github.com/1024MrL/blog
+repo_name: 1024MrL/blog
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/1024MrL/blog
+      
+copyright: Copyright &copy; 2023 blog.lin1024.cc
