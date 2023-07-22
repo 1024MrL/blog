@@ -1,10 +1,6 @@
 nav:
   - 前言: index.md
-  - 实用网站:
-    - 3: 实用网站/3.md
-    - 1: 实用网站/1.md
-  - 必备技能:
-    - 2: 必备技能/2.md
+  - 实用网站: 实用网站/001.md
 
 
 
@@ -13,7 +9,7 @@ nav:
 
 
 
-site_name: 零号 IT 指南
+site_name: 零号备忘录
 theme:
   name: material
   favicon: assets/方头像.png
