@@ -1,6 +1,46 @@
 nav:
   - 前言: index.md
   - 实用网站: 实用网站/001.md
+  - 必知必会: 
+    - 科学上网: 必知必会\科学上网\科学上网.md
+    - GitHub & Git: 必知必会\GitHub & Git\Git & GitHub.md
+    - AI 工具: 
+      - 必知必会/AI 工具/ChatGPT 中文调教指南.md
+      - 必知必会/AI 工具/GitHub Copilot.md
+    - Markdown 与写作: 
+      - 必知必会/Markdown/GitHub 官方 Markdown 教程.md
+      - 必知必会/Markdown/中文文案排版指南.md
+      - 必知必会/Markdown/中文技术文档的写作规范.md
+    - 提问的智慧: 必知必会/提问的智慧.md
+    - 程序员英语: 必知必会/程序员必会英语词汇.md
+    - 开发环境部署: 
+      - 必知必会/开发环境部署/C&C++.md
+      - 必知必会/开发环境部署/Java.md
+      - 必知必会/开发环境部署/Python.md
+      - 必知必会/开发环境部署/C#.md
+    - 虚拟机: 
+      - 必知必会/虚拟机/VMware Workstation.md
+      - 必知必会/虚拟机/Hyper-V.md
+      - 必知必会/虚拟机/VirtualBox.md
+    - Docker: 
+      - 必知必会/Docker/Docker 教程.md
+    - 命令行: 
+      - 必知必会/命令行/命令行的艺术.md
+    - Linux: 
+      - 必知必会/Linux/Linux 基础.md
+    - 系统安装: 必知必会/使用 Ventoy 制作启动盘.md
+    - 信息检索: 必知必会/信息检索.md
+  - 白嫖指南:
+    - 白嫖指南/计算机免费书籍.md
+    - 白嫖指南/开源软件大全.md
+    - 白嫖指南/Windows 11 专业版激活.md
+    - 白嫖指南/使用 Microsoft 365 E5 Renew Plus 续订Microsoft 365 E5.md
+    - 白嫖指南/使用 Office Tool Plus 永久激活 Microsoft Office.md
+    - 白嫖指南/Cloudflare Warp 无限流量.md
+    - 白嫖指南/IDM 激活.md
+    - 白嫖指南/Typora 激活.md
+    - 白嫖指南/VMware Workstation 17 激活.md
+    - 白嫖指南/Youtube 视频下载.md
 
 
 
@@ -9,7 +49,24 @@ nav:
 
 
 
-site_name: 零号备忘录
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+site_name: IT 备忘录
 theme:
   name: material
   favicon: assets/方头像.png
@@ -20,7 +77,6 @@ theme:
   features:
   - navigation.instant
   - navigation.tracking
-  - navigation.expand
   - navigation.path
   - toc.follow
   - toc.integrate
@@ -42,7 +98,9 @@ theme:
         name: Switch to light mode
         
       primary: custom
-      accent: blue
+      accent: indigo
+      primary: blue
+
 
 extra_css:
   - stylesheets/extra.css
