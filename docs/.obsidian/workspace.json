@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "8fdabbfa7103659d",
+    "type": "split",
+    "children": [
+      {
+        "id": "802a74513ebeecd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5270feeb4029f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "必知必会/GitHub & Git/Git & GitHub.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79456c80825e837b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5b8704bad374f03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88a09efd024ae44e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "85cdce2d6ec03de3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#QQ交流群",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "662f350449dcd328",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d28872c5eacc4da5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0786d715c4c84e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a3343b5e3357832",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "必知必会/GitHub & Git/Git & GitHub.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "canvas:新建白板": false
+    }
+  },
+  "active": "88a09efd024ae44e",
+  "lastOpenFiles": [
+    "英语兔语法.pdf",
+    "实用网站/001.md",
+    "必知必会/GitHub & Git/Git & GitHub.md",
+    "必知必会/Linux/Linux 基础.md",
+    "必知必会/Markdown/中文文案排版指南.md",
+    "白嫖指南/GitHub 学生认证.md",
+    "白嫖指南/Windows 11 专业版激活.md",
+    "未命名.canvas",
+    "Test/格式测试.md",
+    "202309101428.md",
+    "docs/index.md",
+    "docs/白嫖指南/使用 Office Tool Plus 永久激活 Microsoft Office.md",
+    "Test",
+    "docs/白嫖指南/计算机免费书籍.md",
+    "docs/白嫖指南/Windows 11 专业版激活.md",
+    "docs/白嫖指南/GitHub 学生认证.md",
+    "docs/白嫖指南/开源软件大全.md",
+    "docs/白嫖指南/使用 Microsoft 365 E5 Renew Plus 续订Microsoft 365 E5.md",
+    "docs/白嫖指南/Youtube 视频下载.md",
+    "docs/白嫖指南/VMware Workstation 17 激活.md",
+    "docs/白嫖指南/Typora 激活.md",
+    "docs/白嫖指南/IDM 激活.md",
+    "docs/白嫖指南/Cloudflare Warp 无限流量.md",
+    "docs/实用网站/001.md",
+    "docs/网络安全/Tor 浏览器隐私上网.md",
+    "docs/网络安全/Telegram 加密通讯.md",
+    "docs/系统优化/硬盘分区扩容.md",
+    "docs/知识管理/个人知识管理方案.md",
+    "docs/image.png",
+    "docs/image-1.png"
+  ]
+}

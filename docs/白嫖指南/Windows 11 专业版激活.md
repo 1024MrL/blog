@@ -1,0 +1,3 @@
+# Windows 11 专业版激活
+
+- 激活码：WMN7B-Y7TKF-Y49QB-TMQ8T-GMT6T
